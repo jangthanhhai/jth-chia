@@ -1,0 +1,29 @@
+{
+  "name": "jth-chia",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn chia 2 số. Đơn giản, dễ dùng và nhẹ",
+  "main": "chia.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangthanhhai/jth-chia.git"
+  },
+  "dependencies": {
+    "is-zero": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "phepchia",
+    "chia",
+    "chiahaiso"
+  ],
+  "author": "JTH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jangthanhhai/jth-chia/issues"
+  },
+  "homepage": "https://github.com/jangthanhhai/jth-chia#readme"
+}
